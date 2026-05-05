@@ -1,0 +1,6 @@
+{
+  "name": "Random Name Shuffler | 每月高檢隨機序器",
+  "description": "提供人名，隨機排序，每次結果都不同。A simple tool to randomly shuffle a list of names.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
